@@ -1,0 +1,7 @@
+recursion (simple)  https://en.wikiversity.org/wiki/C%2B%2B/Simple_Math
+
+https://www.geeksforgeeks.org/recursion-practice-problems-solutions/ (scroll down to math problems)
+
+TODO: check cpp spec and see how far we need to go and how many weeks we've got
+
+flowcharts from access group

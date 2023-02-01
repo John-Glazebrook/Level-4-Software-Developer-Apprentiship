@@ -1,0 +1,26 @@
+recap this:
+
+https://repl.it/@JohnGlazebrook/c-pointer-array-arithmetic
+
+https://www.programiz.com/cpp-programming/function-overloading
+
+header guards
+circular dependancies
+malloc and free
+heap and stack
+pass in big data
+time how long for 1MB char data in
+
+
+OUTPUT:
+
+  Worksheet catch up
+  sit with students and worksheets
+  see who has completed what
+
+
+
+
+No one finished the worksheet on pointers
+Maybe start on functions and pointers and parameters but simple stuff.
+They need time to finish

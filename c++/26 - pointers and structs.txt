@@ -1,0 +1,20 @@
+struct movies_t {
+  string title;
+  int year;
+};
+
+movies_t amovie;
+movies_t * pmovie;
+
+pmovie = &amovie;
+
+  movies_t amovie;
+  movies_t * pmovie;
+  pmovie = &amovie;
+
+
+these are the same:
+pmovie->title
+(*pmovie).title
+
+more :: http://www.cplusplus.com/doc/tutorial/structures/

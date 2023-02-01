@@ -1,0 +1,40 @@
+arrays
+pointers
+
+aim - learn about pointers and their uses
+
+crate an array of ints
+fill with numbers -100 to 100
+create an array of doubles
+fill with numbers -100.0 to 100.0 in increments of 0.1
+create an array of shorts - -100 to 100
+create an array of chars and fill with lor-ipsom to 200 characters
+
+research and  calculate the size of the
+array using sizeof
+
+int
+double
+char
+small
+
+use pointer arithmatic to show every other item in the array
+use pointer arithmatic to show nth memory address
+
+for each of the arrays show what the pointer++ is doing 
+
+all the user to select every 2, every 3 etc, show 10, show 20, etc.
+
+put the above tests into functions
+Create a user menu system that allows a user to test various
+array / pointer functions.
+
+Week 2 -- Task 1
+
+create a function
+pass this into a function 10,000 times
+time this
+
+create a function pass by value
+pass into
+time

@@ -1,0 +1,18 @@
+functions
+more on pointers
+
+Pseudocode from access
+
+passing structs to functions:
+https://stackoverflow.com/questions/15181765/passing-structs-to-functions
+
+https://repl.it/@JohnGlazebrook/Noughts-Crosses
+
+bool check_for_win(int board[][3], int rows, int cols) {
+
+check_for_win(board, 3, 3)
+
+void parse(char command[4], int* row, int* col) {
+  *row = (int)command[0] - 48;
+  *col = (int)command[2] - 48;
+}
